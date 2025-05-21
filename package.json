@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "react-select": "^5.8.3",
     "react-syntax-highlighter": "^15.6.1",
-    "sass": "^1.80.6",
+    "sass": "^1.87.0",
     "vega": "^5.30.0",
     "vega-embed": "^6.29.0",
     "vega-lite": "^5.22.0",
